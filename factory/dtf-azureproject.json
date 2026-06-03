@@ -1,0 +1,15 @@
+{
+	"name": "dtf-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87f60377-4932-4290-84a1-e001c9045684",
+		"tenantId": "e6379f49-6271-4c4d-b32b-b91d1215c82d"
+	}
+}
